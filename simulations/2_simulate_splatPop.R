@@ -2,9 +2,6 @@
 #' data as references. 
 #' splatPopParams estimated in 1_estimate_splatPopParams.R
 
-#install.packages("/mnt/mcscratch/cazodi/Software/splatter_1.15.1.tar.gz",
-#                 repos = NULL, type="source")
-
 library(splatter)
 library(VariantAnnotation)
 library(SingleCellExperiment)
