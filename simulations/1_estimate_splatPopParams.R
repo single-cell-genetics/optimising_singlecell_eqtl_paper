@@ -1,8 +1,6 @@
 #' Estimate splatPopParams for iPSC Smart-Seq2 and FPP 10X data for the best
 #' practices manuscript
 
-#install.packages("/mnt/mcscratch/cazodi/Software/splatter_1.15.1.tar.gz",
-#                 repos = NULL, type="source")
 library(splatter)
 library(data.table)
 library(tidyverse)
