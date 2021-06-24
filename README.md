@@ -4,15 +4,14 @@ This repository contains scripts for the analysis of both real and simulated sin
 
 [Optimising expression quantitative trait locus mapping workflows for single-cell studies](https://www.biorxiv.org/content/10.1101/2021.01.20.427401v2)
 
+### Analysis Scripts
 
 The following folders contain scripts to reproduce the figures and analyses presented in the paper.
 In particular:
 
 * [Plotting Notebooks](../master/ipsc/) contains notebooks to reproduce our figures (both main and supplementary).
 
-* [Simulation Scripts](../master/simulations/) contains scripts to estimate parameters from real data and then set up simulations). 
-
-For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). 
+* [Simulation Scripts](../master/simulations/) contains scripts to estimate parameters from real data and then set up simulations). For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). 
 
 ### Software Requirements
 - splatter v1.17.1
