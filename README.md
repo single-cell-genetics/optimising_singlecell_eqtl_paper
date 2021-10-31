@@ -2,7 +2,7 @@
 
 This repository contains scripts for the analysis of both real and simulated single-cell RNA-seq data for our paper:
 
-[Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02407-x)
+Cuomo*, Alvari*, Azodi* et al, [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02407-x), Genome Biology (2021).
 
 ### Analysis Scripts
 
