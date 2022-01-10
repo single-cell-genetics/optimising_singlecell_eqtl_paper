@@ -1,3 +1,5 @@
+[![doi 10.5281/zenodo.4915837](https://zenodo.org/badge/DOI/10.5281/zenodo.4915837.svg)](https://doi.org/10.5281/zenodo.4915837)
+
 # Optimising expression quantitative trait locus mapping workflows for single-cell studies
 
 This repository contains scripts for the analysis of both real and simulated single-cell RNA-seq data for our paper:
