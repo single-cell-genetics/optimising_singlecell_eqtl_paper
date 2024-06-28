@@ -13,7 +13,7 @@ In particular:
 
 * [Plotting Notebooks](ipsc) contains notebooks to reproduce our figures (both main and supplementary).
 
-* [Simulation Scripts](simulations) contains scripts to estimate parameters from real data and then set up simulations). For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). splatPop is now out as a [preprint](https://www.biorxiv.org/content/10.1101/2021.06.17.448806v1.abstract)!
+* [Simulation Scripts](simulations) contains scripts to estimate parameters from real data and then set up simulations). For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). More detail about splatPop cen be found in our [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02546-1)!
 
 ## Software Requirements
 
