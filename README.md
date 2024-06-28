@@ -6,16 +6,16 @@ This repository contains scripts for the analysis of both real and simulated sin
 
 Cuomo*, Alvari*, Azodi* et al, [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02407-x), Genome Biology (2021).
 
-### Analysis Scripts
+## Analysis Scripts
 
 The following folders contain scripts to reproduce the figures and analyses presented in the paper.
 In particular:
 
-* [Plotting Notebooks](ipsc/) contains notebooks to reproduce our figures (both main and supplementary).
+* [Plotting Notebooks](ipsc) contains notebooks to reproduce our figures (both main and supplementary).
 
-* [Simulation Scripts](../master/simulations/) contains scripts to estimate parameters from real data and then set up simulations). For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). splatPop is now out as a [preprint](https://www.biorxiv.org/content/10.1101/2021.06.17.448806v1.abstract)!
+* [Simulation Scripts](simulations) contains scripts to estimate parameters from real data and then set up simulations). For an introduction to splatPop for simulating population scale single-cell RNA-seq data, see the [vignette](http://www.bioconductor.org/packages/devel/bioc/vignettes/splatter/inst/doc/splatPop.html). splatPop is now out as a [preprint](https://www.biorxiv.org/content/10.1101/2021.06.17.448806v1.abstract)!
 
-### Software Requirements
+## Software Requirements
 
 - splatter v1.17.1
 - VariantAnnotation v1.36.0
